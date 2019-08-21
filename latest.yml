@@ -1,0 +1,8 @@
+version: 1.0.1
+files:
+  - url: zfarm-setup-1.0.1.exe
+    sha512: MQA/ZAHT9Uneml7fxEL1bSWRXCUpgh2QU7FdlpnNbYD/re5cnyaGj/BEVGDcSToVbaZzAw9nTzDA+N/n6gARMg==
+    size: 154161115
+path: zfarm-setup-1.0.1.exe
+sha512: MQA/ZAHT9Uneml7fxEL1bSWRXCUpgh2QU7FdlpnNbYD/re5cnyaGj/BEVGDcSToVbaZzAw9nTzDA+N/n6gARMg==
+releaseDate: '2019-08-21T07:07:19.551Z'
